@@ -1,0 +1,15 @@
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EFCustomerProjectDesktop.exe.config
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EFCustomerProjectDesktop.exe
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EFCustomerProjectDesktop.pdb
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EntityFramework.dll
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EntityFramework.SqlServer.dll
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EntityFramework.xml
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\bin\Debug\EntityFramework.SqlServer.xml
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.csproj.AssemblyReference.cache
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.Form1.resources
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.Properties.Resources.resources
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.csproj.GenerateResource.cache
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.csproj.CoreCompileInputs.cache
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.csproj.CopyComplete
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.exe
+M:\Desktop C#\CRUD with Entity framework\EFCustomerProjectDesktop\EFCustomerProjectDesktop\obj\Debug\EFCustomerProjectDesktop.pdb
